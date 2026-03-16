@@ -60,7 +60,7 @@
             <td>Sidrerías y asadores</td> 
         </tr>
         <tr>
-            <td>Bodegas de vino y txakoli</td> [cite: 21]
+            <td>Bodegas de vino y txakoli</td>
             <td rowspan="3"><img src="https://f.rpp-noticias.io/2024/10/09/415341_1652816.jpg?width=1020&quality=80" alt="Gastronomía 2" width="150"></td>
         </tr>
         <tr>
